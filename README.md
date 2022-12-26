@@ -1,7 +1,8 @@
 ##  Music🎵 player with Emotion😂😥😡😱 Recognition   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/LICENSE)
 
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
+# [Buy me a Coffee☕](https://www.buymeacoffee.com/monishkumal)
+## Donate me on GPAY:-  monishkumar0420@okaxis
+
 
 ### [Full Tutorial here](https://www.youtube.com/playlist?list=PLsT53VV2LIIFWgFtLCME6cXT6pUlouN8K)
 
